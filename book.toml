@@ -1,0 +1,18 @@
+[book]
+title = "화폐의 미래 — 스테이블코인 스터디"
+authors = ["IBK시스템 스테이블코인 스터디"]
+description = "화폐의 미래(The Future of Money) 1~2장 발표용 정리"
+language = "ko"
+
+[output.html]
+default-theme = "rust"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/GloryJewel/md-book"
+edit-url-template = "https://github.com/GloryJewel/md-book/edit/main/{path}"
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.search]
+enable = true

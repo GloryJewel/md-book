@@ -6,7 +6,7 @@
 
 - `book.toml` — mdBook 설정
 - `src/SUMMARY.md` — 목차
-- `src/intro.md` — 발표 컨셉
+- `src/schedule.md` — 9주 스터디 일정
 - `src/ch01.md` — 1장 (미래를 향한 경주)
 - `src/ch02.md` — 2장 (화폐와 금융의 기초)
 - `src/appendix.md` — 한 장 요약
